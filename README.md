@@ -31,7 +31,7 @@ I trained this GPT on a small Shakespeare dataset. Despite limited data, the mod
 
 ## ✨ Sample Output
 
-Example generated text:
+Example generated text: "i wish do the prince : doom , though yet i cry look child away said as meet show tongues mystery procure use procure roundly"
 
 
 
