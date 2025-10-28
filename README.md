@@ -1,6 +1,6 @@
 # 🧠 mini-gpt-from-scratch
 
-A minimal GPT-style language model — built 100% from scratch in PyTorch — trained to generate Shakespeare-like text.  
+A minimal GPT-style language model — built 100% from scratch in PyTorch — trained with Nvidia H200(141gb) with 90% utilization.  
 Includes full custom implementations of **Self-Attention**, **Multi-Head Attention**, **Masked Self-Attention**, and the complete GPT architecture.
 
 ---
